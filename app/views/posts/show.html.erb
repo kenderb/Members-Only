@@ -12,7 +12,8 @@
 
 <p>
   <strong>User name:</strong>
-  <%= @user.username %>
+  <%= display_user(current_user.present?, @user) %>
+  
 </p>
 
 <%= link_to 'Edit', edit_post_path(@post) %> |
