@@ -24,7 +24,6 @@ To get a local copy up and running follow these simple example steps.
 - type bundle install
 - type yarn install
 - type rails db:migrate
-- You need to install postgresql: https://www.postgresql.org/
 
 
 ## Authors
@@ -33,14 +32,14 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@kenderb](https://github.com/ken)
 - Twitter: [@twitterhandle](https://twitter.com/KBTarts )
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kender-bolivar-1736086b/ )
+- LinkedIn: [KenderBolivar](https://www.linkedin.com/in/kender-bolivar-1736086b/ )
 
 
 👤 **Kenvin Cotrina**
 
 - GitHub: [kcotrinam](https://github.com/kcotrinam) 
 - Twitter: [@kcotrinam_dev](https://twitter.com/kcotrinam_dev)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevincotrina/ )
+- LinkedIn: [KevinCotrina](https://www.linkedin.com/in/kevincotrina/ )
 
 ## 🤝 Contributing
 
@@ -57,3 +56,7 @@ Give a ⭐️ if you like this project!
 - [Rails Guides](https://guides.rubyonrails.org/)
 - Stack Overflow
 - Odin Project.
+
+ ## 📝 License
+
+This project is [MIT](lic.url) licensed.
